@@ -1,0 +1,7 @@
+block.settings.load_view_block_filter_load_view_block_filter:
+  type: block_settings
+  label: 'load view block filter block'
+  mapping:
+    foo:
+      type: string
+      label: Foo

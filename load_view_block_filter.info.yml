@@ -1,0 +1,6 @@
+name: load view block filter
+type: module
+description: this block help to load block view filter cant take value in url.
+package: Custom
+core: 8.x
+core_version_requirement: ^8 || ^9
