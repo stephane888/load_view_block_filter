@@ -9,7 +9,7 @@ use Drupal\Core\Session\AccountInterface;
 use Drupal\Core\Plugin\ContainerFactoryPluginInterface;
 use Symfony\Component\HttpFoundation\RequestStack;
 use Symfony\Component\DependencyInjection\ContainerInterface;
-use Stephane888\Debug\debugLog;
+
 
 /**
  * Provides a load view block filter block.
@@ -96,8 +96,7 @@ class LoadViewBlockFilterBlock extends BlockBase implements
     $view->initHandlers();
     // $view->filter->query->addWhere('AND',
     // 'field_domaine_de_competance_target_id', '1371', '=');
-    // debugLog::kintDebugDrupal($view->filter['field_domaine_de_competance_target_id'],
-    // 'build-query');
+    
     
     /**
      *
