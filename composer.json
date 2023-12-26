@@ -1,13 +1,13 @@
 {
-    "name": "stephane888/load_view_block_filter",
-    "type": "drupal-module-custom",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "stephane888",
-            "email": "kksasteph888@gmail.com"
-        }
-    ],
-    "minimum-stability": "dev",
-    "require": {}
+  "name": "stephane888/load_view_block_filter",
+  "type": "drupal-custom-module",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "stephane888",
+      "email": "kksasteph888@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {}
 }
